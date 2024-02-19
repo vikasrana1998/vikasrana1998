@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in a **Startup SSNTPL**
 
-- 🌱 I’m currently learning **React Native and Go Lang**
+- 🌱 I’m currently learning **RUST**
 
 - 💬 Ask me about **MERN, Laravel, Backend development**
 
