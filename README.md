@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasrana1998" alt="vikasrana1998" /></a> </p>
 
-- 🔭 I’m currently working in a **Startup SSNTPL**
+- 🔭 I’m currently working in a **Startup ZVOLV**
 
 - 🌱 I’m currently learning **RUST**
 
