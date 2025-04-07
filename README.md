@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working in a **Startup ZVOLV**
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **LangGraph**
 
-- 💬 Ask me about **MERN, Laravel, Backend development**
+- 💬 Ask me about **MERN, FastAPI, Laravel, Backend development**
 
 - 📫 How to reach me **vikasrana1998@gmail.com**
 
